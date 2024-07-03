@@ -181,7 +181,7 @@ function social_share_add_share_buttons($content) {
             $share_buttons .= '</div>';
 
             $content .= $share_buttons;
-        }
+        } 
     }
     return $content;
 }
