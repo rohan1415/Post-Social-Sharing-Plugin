@@ -31,9 +31,4 @@ function sss_settings_page() {
     <?php
 }
 
-function sss_enqueue_admin_styles() {
-    wp_enqueue_style('sss-admin-style', plugins_url('/assets/css/admin-style.css', __FILE__));
-}
-add_action('admin_enqueue_scripts', 'sss_enqueue_admin_styles');
-
 ?>
