@@ -1,0 +1,19 @@
+/* assets/css/admin-style.css */
+.social-share-buttons {
+    margin-top: 20px;
+}
+
+.social-share-buttons a {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.form-table th {
+    padding: 15px 10px 15px 0;
+}
+
+.form-table td {
+    padding: 15px 0;
+}
